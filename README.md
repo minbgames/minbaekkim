@@ -4,7 +4,7 @@
 
 ### Geekble's developer
 
-- 🔭 I’m currently working on Geekble
+- 🔭 I’m currently working at Geekble
 - 🌱 I’m currently learning Android/iOS
 - 📫 How to reach me: sherlotics92@gmail.com
 
