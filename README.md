@@ -5,7 +5,7 @@
 ### Geekble's developer
 
 - 🔭 I’m currently working at Geekble
-- 🌱 I’m currently learning Android/iOS
+- 🌱 I’m currently learning Unity/Unreal
 - 📫 How to reach me: sherlotics92@gmail.com
 
 -------
